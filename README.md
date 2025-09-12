@@ -1,5 +1,5 @@
 ## Hi there 👋
-!(https://media.tenor.com/2fayDqjRn5gAAAAd/mushoku-tensei-eris-boreas.gif)
+![Mushoku Tensei GIF](https://media.tenor.com/2fayDqjRn5gAAAAd/mushoku-tensei-eris-boreas.gif)
 
 <!--
 **KienTranRunner/KienTranRunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
