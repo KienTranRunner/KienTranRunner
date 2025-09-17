@@ -33,6 +33,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,ts,bootstrap,docker,nuxt,dotnet&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,ts,bootstrap,docker,nuxt,dotnet,wordpress&perline=14" />
   </a>
 </p>
