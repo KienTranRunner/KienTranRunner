@@ -1,19 +1,4 @@
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Inci Tran, from the Vietnam</h1></summary>
-  </ul>
-</div>
-
-
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"></h2></summary>
-  </ul>
-</div>
 
 <div id="user-content-toc">
   <ul align="center">
